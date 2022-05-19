@@ -1,0 +1,24 @@
+{
+  "name": "scheduler-vue",
+  "version": "1.0.0",
+  "description": "DHTMLX Scheduler with Vue.js",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "core-js": "^3.4.4",
+    "dhtmlx-scheduler": "^5.3.4",
+    "vue": "^3.1.0-0", 
+    "@vue/compat": "^3.1.0-0" 
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.4",
+    "@vue/cli-service": "~5.0.4",
+    "@vue/compiler-sfc": "^3.1.0-0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ]
+}
