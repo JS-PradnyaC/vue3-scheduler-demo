@@ -7,6 +7,8 @@ yarn install /npm install
 
 ```
 yarn serve/npm run serve
+
+open http://localhost:8080/
 ```
 
 ### Compiles and minifies for production
